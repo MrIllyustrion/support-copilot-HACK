@@ -1,0 +1,13 @@
+{
+  "_comment": "Переименуйте в category_map.json и впишите id категорий из taxonomy.json. Ключи слева - внутренние категории сервиса.",
+  "complaint.insult": "complaint.insult",
+  "complaint.cheat": "complaint.cheat",
+  "complaint.scam": "complaint.scam",
+  "complaint.other": "complaint.other",
+  "report.bug": "report.bug",
+  "report.payment": "report.payment",
+  "report.hack": "report.hack",
+  "report.appeal": "report.appeal",
+  "report.other": "report.other",
+  "spam": "spam"
+}
